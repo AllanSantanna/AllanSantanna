@@ -1,0 +1,27 @@
+name: Update GitHub Profile Statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate statistics and language cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: AllanSantanna
+          BRANCH_NAME: main
+          THEME: github_dark
+          TIME_ZONE: America/Recife
+          AUTO_PUSH: true
