@@ -1,5 +1,5 @@
 
-<img width="100%" src="./assets/circuit-header.svg" alt="Header" />
+<img width="100%" src="./assets/circuit-header.gif" alt="Header" />
 
 <div align="center">
 
@@ -139,4 +139,4 @@ My main interests include <strong>back-end development, APIs, databases, and ful
 
 </div>
 
-<img width="100%" src="./assets/circuit-footer.svg" alt="Footer" />
+<img width="100%" src="./assets/circuit-footer.gif" alt="Footer" />
