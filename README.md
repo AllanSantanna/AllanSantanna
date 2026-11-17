@@ -90,9 +90,9 @@ My main interests include <strong>back-end development, APIs, databases, and ful
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AllanSantanna&show_icons=true&theme=dark&title_color=00bfbf&icon_color=00bfbf&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanSantanna&layout=compact&theme=dark&title_color=00bfbf&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Used Languages" />
 
 </div>
 
