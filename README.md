@@ -1,10 +1,10 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header" alt="Header" />
+<img width="100%" src="./assets/circuit-header.svg" alt="Header" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00BFBF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Allan+Santana!;Software+Developer;Systems+Analysis+and+Development+Student;Always+Learning%2C+Always+Evolving!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=EF233C&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Allan+Santana!;Software+Developer;Systems+Analysis+and+Development+Student;Always+Learning%2C+Always+Evolving!" alt="Typing SVG" />
 </a>
 
 <h2>👨‍💻 About Me</h2>
@@ -118,7 +118,7 @@ My main interests include <strong>back-end development, APIs, databases, and ful
 </a>
 
 <a href="mailto:allanxlink@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-00bfbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-ef233c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://github.com/AllanSantanna">
@@ -135,8 +135,8 @@ My main interests include <strong>back-end development, APIs, databases, and ful
 
 <p><em>“Consistency, discipline, and continuous learning are the foundations of progress.”</em></p>
 
-<img src="https://komarev.com/ghpvc/?username=AllanSantanna&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AllanSantanna&color=ef233c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" alt="Footer" />
+<img width="100%" src="./assets/circuit-footer.svg" alt="Footer" />
